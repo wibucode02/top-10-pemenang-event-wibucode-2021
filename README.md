@@ -6,43 +6,43 @@
 ### Daftar pemenang event ui design wibucode 2021
 
 
-    ***1.Zaim***
-    \
- 
+ ***1.Zaim***
+ \
 
-    ***2.Blint***
-    \
-    <br>
 
-    ***3.Ri Veluv***
-    \
-    <br>
+ ***2.Blint***
+ \
+ <br>
 
-    ***4.Aruran***
-    \
-    <br>
+ ***3.Ri Veluv***
+ \
+ <br>
 
-    ***5.Jauhari***
-    \
-    <br>
+ ***4.Aruran***
+ \
+ <br>
 
-    ***6.haiderproject***
-    \
-    <br>
+ ***5.Jauhari***
+ \
+ <br>
 
-    ***7.alditegarprakoso***
-    \
-    <br>
+ ***6.haiderproject***
+ \
+ <br>
 
-    ***8.aruran***
-    \
-    <br>
+ ***7.alditegarprakoso***
+ \
+ <br>
 
-    ***9.kenisya***
-    \
-    <br>
+ ***8.aruran***
+ \
+ <br>
 
-    ***10.crescentMoon***
+ ***9.kenisya***
+ \
+ <br>
+
+ ***10.crescentMoon***
 
 
 \
